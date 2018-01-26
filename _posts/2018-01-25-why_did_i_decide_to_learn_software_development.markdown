@@ -1,11 +1,9 @@
 ---
 layout: post
 title:      "Why did I decide to learn software development"
-date:       2018-01-26 04:52:47 +0000
+date:       2018-01-25 23:52:47 -0500
 permalink:  why_did_i_decide_to_learn_software_development
 ---
-
-**Why did I decide to learn software development**
 
  I decided to become a developer when I realized that manual labor wasn't the kind of work that would allow me to live up to my fullest potential. I enjoy challenging myself and pushing the limits of my mind. 
  
